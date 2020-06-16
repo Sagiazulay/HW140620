@@ -1,0 +1,20 @@
+1. תכנות מונחה עצמים או בשמו OOP - Object Oriented Programming
+הוא תכנות בצורת בניית עצמים מנחים ושימוש בהם תוך כדי כך שכל אחד מהם עומד בפני עמצו ויכולים לתקשר אחד בין השני.
+
+2. class - A Class is like an object constructor, or a "blueprint" for creating objects
+Objects - An object is an instance of a class.
+
+3. creating an Object. To create a new object we use the word "new" and give the object a name.
+
+4. The "C" language in NOT OOP. But The "C++" IS OOP.
+
+5.Inheritance means that we can inherit fields and methods from one class to another.
+It is helpful because if we have some classes that have a similar fields and methods with a litlle changes
+we can use (inherit)the code that we already wrote and just add the changes that we want.
+
+6.Abstract class - is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+Abstarct Method - can only be used in an abstract class, and it does not have a body. The body is provided by the derived class (inherited from).
+
+7.ToStrting - Is a way to return a string fron inside the Object.
+We can use it when we want to get information from the object.
+The ToString must come with an Override because the visual studio already has inside it a ToString function.
